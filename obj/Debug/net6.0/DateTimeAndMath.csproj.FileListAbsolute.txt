@@ -1,0 +1,15 @@
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\bin\Debug\net6.0\DateTimeAndMath.exe
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\bin\Debug\net6.0\DateTimeAndMath.deps.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\bin\Debug\net6.0\DateTimeAndMath.runtimeconfig.json
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\bin\Debug\net6.0\DateTimeAndMath.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\bin\Debug\net6.0\DateTimeAndMath.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.csproj.AssemblyReference.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.AssemblyInfoInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.AssemblyInfo.cs
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.csproj.CoreCompileInputs.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\refint\DateTimeAndMath.dll
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.pdb
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\DateTimeAndMath.genruntimeconfig.cache
+C:\Users\Muhammed Yetim\Desktop\Patika.dev\Pratikler\DateTimeAndMath\obj\Debug\net6.0\ref\DateTimeAndMath.dll
